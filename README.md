@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ### Step 3: Run the App Locally
 Start the Streamlit app by running:
 ```bash
-streamlit run streamlit_app.py
+streamlit run app.py
 ```
 Your web browser should automatically open and show the app at `http://localhost:8501`. If it doesn't, just copy that URL into your browser!
 
